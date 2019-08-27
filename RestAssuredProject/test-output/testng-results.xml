@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18493" started-at="2019-08-14T20:38:10Z" finished-at="2019-08-14T20:38:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18493" started-at="2019-08-14T20:38:10Z" finished-at="2019-08-14T20:38:29Z">
+      <class name="DataDrivenWithDummyRestAPIs.CreateNewRecordinServer">
+        <test-method status="PASS" signature="CreateNewRecord(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenWithDummyRestAPIs.CreateNewRecordinServer@4b952a2d]" name="CreateNewRecord" duration-ms="13860" started-at="2019-08-15T02:08:13Z" data-provider="EmpData" finished-at="2019-08-15T02:08:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Johnsenaa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[34000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[28]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewRecord -->
+        <test-method status="PASS" signature="CreateNewRecord(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenWithDummyRestAPIs.CreateNewRecordinServer@4b952a2d]" name="CreateNewRecord" duration-ms="819" started-at="2019-08-15T02:08:27Z" data-provider="EmpData" finished-at="2019-08-15T02:08:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jaohh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[68990]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[56]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewRecord -->
+        <test-method status="PASS" signature="CreateNewRecord(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenWithDummyRestAPIs.CreateNewRecordinServer@4b952a2d]" name="CreateNewRecord" duration-ms="806" started-at="2019-08-15T02:08:28Z" data-provider="EmpData" finished-at="2019-08-15T02:08:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[m juhsy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[30000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewRecord -->
+      </class> <!-- DataDrivenWithDummyRestAPIs.CreateNewRecordinServer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
